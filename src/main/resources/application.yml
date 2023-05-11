@@ -1,0 +1,8 @@
+integration:
+  power-bi:
+    client-id: ${ADD_YOUR_CLIENT_ID}
+    tenant-id: ${ADD_YOUR_TENANT_ID}
+    certificate-path: "cert/${ADD_YOUR_CERTIFICATE_NAME}.pfx"
+    authority-url: https://login.microsoftonline.com/
+    api-scope: https://analysis.windows.net/powerbi/api/.default
+    base-url: https://api.powerbi.com/v1.0/myorg
