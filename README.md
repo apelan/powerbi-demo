@@ -43,6 +43,9 @@ To use the demo application, follow these steps:
 }
 ```
 
+## Contributors
+- https://github.com/jovana998
+
 ## Useful Links
 
 Here are some useful links related to Power BI and Azure:
